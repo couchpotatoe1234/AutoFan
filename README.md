@@ -1,2 +1,2 @@
 # AutoFan
-this is an automatic fan that turns on when a person is there and its greater than 30 degrees C
+This will be a desktop fan that will automatically turn on when its over 30°C and when a human is there.
