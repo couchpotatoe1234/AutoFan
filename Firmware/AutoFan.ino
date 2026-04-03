@@ -4,7 +4,6 @@
 const int PIR_PIN = 28;
 const int FAN_PIN = 26;
 const int TEMP_PIN = 27;
-
 const float TEMP_LIMIT = 28.0;
 
 OneWire oneWire(TEMP_PIN);
