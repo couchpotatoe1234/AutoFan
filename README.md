@@ -1,6 +1,6 @@
 # AutoFan
 One day, it was really hot and I was sitting at my computer, programming, when I decided to reach over to turn on my desktop fan. As I did that, I realized, why don't I just automate this so I can focus more on my projects now? So here it is: the AutoFan that turns on when over a certain temperature and when a human is detected.
-
+<img width="475" height="627" alt="Screenshot 2026-04-04 at 1 06 21 PM" src="https://github.com/user-attachments/assets/5a484547-bcfe-4161-855c-fbe87b2048a9" />
 
 | Name                | Purpose                                             | Quantity | Total Cost (USD) | Link                                                                                                                                                                                                                                                                     | Distributor |
 |---------------------|-----------------------------------------------------|----------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
